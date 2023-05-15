@@ -1,6 +1,6 @@
 # ForSRIP
 
-##Repository directory 
+## Repository directory 
 
 | Directory | Content |
 | --------- | -----|
